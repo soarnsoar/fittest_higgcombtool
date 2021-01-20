@@ -1,0 +1,392 @@
+diffNuisances run on fitDiagnosticsM800.root, at 2021-01-20 18:37:04.360715 with the following options ... {'absolute_values': False, 'show_all_parameters': False, 'format': 'text', 'stol2': 0.5, 'pullDef': '', 'vtol': 0.3, 'stol': 0.1, 'plotfile': '1', 'vtol2': 2.0, 'poi': 'r'}
+
+name                                              b-only fit            s+b fit         rho
+CMS_PU_2016                                   ! +0.00, 0.18!     ! -0.00, 0.36!       +0.02
+CMS_ak4jet_jer_2016                           ! +0.00, 0.05!     ! +0.00, 0.19!       +0.00
+CMS_ak4jet_jesAbsolute                        ! +0.00, 0.06!        -0.00, 0.57       +0.09
+CMS_ak4jet_jesAbsolute_2016                   ! +0.00, 0.01!        +0.00, 0.87       -0.09
+CMS_ak4jet_jesBBEC1                           ! +0.00, 0.20!     ! +0.00, 0.40!       +0.01
+CMS_ak4jet_jesBBEC1_2016                      ! +0.00, 0.22!     ! -0.00, 0.39!       -0.04
+CMS_ak4jet_jesEC2                             ! +0.00, 0.30!     ! -0.00, 0.43!       +0.03
+CMS_ak4jet_jesEC2_2016                        ! +0.00, 0.22!     ! -0.00, 0.40!       +0.02
+CMS_ak4jet_jesFlavorQCD                       ! +0.00, 0.03!     ! +0.00, 0.41!       +0.05
+CMS_ak4jet_jesHF                              ! +0.00, 0.26!     ! -0.00, 0.43!       +0.01
+CMS_ak4jet_jesHF_2016                         ! +0.00, 0.38!     ! -0.00, 0.45!       -0.02
+CMS_ak4jet_jesRelativeBal                     ! +0.00, 0.12!     ! +0.00, 0.28!       -0.04
+CMS_ak4jet_jesRelativeSample_2016             ! +0.00, 0.01!        -0.00, 0.80       -0.09
+CMS_ak8jet_jer_2016                           ! +0.00, 0.32!     ! +0.00, 0.41!       -0.03
+CMS_ak8jet_jesAbsolute                        ! +0.00, 0.47!     ! -0.00, 0.45!       +0.04
+CMS_ak8jet_jesAbsolute_2016                   ! +0.00, 0.39!     ! -0.00, 0.43!       +0.03
+CMS_ak8jet_jesBBEC1                              +0.00, 0.64     ! -0.00, 0.47!       +0.01
+CMS_ak8jet_jesBBEC1_2016                         +0.00, 0.63     ! -0.00, 0.47!       +0.02
+CMS_ak8jet_jesEC2                                +0.00, 0.66     ! -0.00, 0.47!       -0.00
+CMS_ak8jet_jesEC2_2016                           +0.00, 0.66     ! -0.00, 0.47!       -0.00
+CMS_ak8jet_jesFlavorQCD                          +0.00, 0.53     ! -0.00, 0.46!       +0.03
+CMS_ak8jet_jesHF                                 +0.00, 0.66     ! -0.00, 0.47!       -0.00
+CMS_ak8jet_jesHF_2016                            +0.00, 0.66     ! -0.00, 0.47!       -0.00
+CMS_ak8jet_jesRelativeBal                        +0.00, 0.54     ! -0.00, 0.46!       +0.01
+CMS_ak8jet_jesRelativeSample_2016                +0.00, 0.53     ! +0.00, 0.45!       -0.03
+CMS_ak8jet_jmr_2016                           ! +0.00, 0.35!     ! -0.00, 0.41!       +0.01
+CMS_ak8jet_jms_2016                              +0.00, 0.64     ! -0.00, 0.47!       -0.00
+CMS_btag_cferr1                               ! +0.00, 0.07!     ! +0.00, 0.36!       -0.05
+CMS_btag_cferr2                               ! +0.00, 0.12!     ! -0.00, 0.42!       -0.03
+CMS_btag_hf                                   ! +0.00, 0.18!     ! -0.00, 0.45!       -0.01
+CMS_btag_hfstats1_2016                        ! +0.00, 0.31!     ! -0.00, 0.46!       +0.01
+CMS_btag_hfstats2_2016                        ! +0.00, 0.49!     ! -0.00, 0.47!       +0.00
+CMS_btag_lf                                   ! +0.00, 0.08!     ! +0.00, 0.36!       -0.02
+CMS_btag_lfstats1_2016                           +0.00, 0.65     ! -0.00, 0.47!       -0.01
+CMS_btag_lfstats2_2016                        ! +0.00, 0.34!     ! -0.00, 0.46!       -0.01
+CMS_eff_Wtag_2016                             ! +0.00, 0.08!     ! +0.00, 0.43!       -0.15
+CMS_eff_e_2016                                ! +0.00, 0.12!     ! -0.00, 0.45!       +0.02
+CMS_eff_hww_sngele_trigger_2016                  +0.00, 0.56     ! -0.00, 0.47!       -0.00
+CMS_eff_hww_sngmu_trigger_2016                ! +0.00, 0.30!     ! -0.00, 0.47!       +0.01
+CMS_eff_m_2016                                ! +0.00, 0.13!     ! -0.00, 0.47!       +0.01
+CMS_eff_prefiring_2016                        ! +0.00, 0.26!     ! -0.00, 0.47!       +0.01
+CMS_scale_electron_2016                       ! +0.00, 0.45!     ! -0.00, 0.45!       +0.01
+CMS_scale_met_2016                               +0.00, 0.66     ! -0.00, 0.45!       +0.01
+CMS_scale_muon_2016                           ! +0.00, 0.37!     ! +0.00, 0.43!       -0.01
+MultiVnorm2016                                   +0.00, 0.59     ! -0.00, 0.47!       +0.01
+QCDscale_Higgs_gg                                +0.00, 0.66     ! -0.00, 0.47!       -0.00
+QCDscale_Higgs_qqbar                             +0.00, 0.66     ! -0.00, 0.47!       -0.00
+QCDscale_gg_ACCEPT                               +0.00, 0.66     ! -0.00, 0.47!       -0.00
+QCDscale_qq_ACCEPT                               +0.00, 0.66     ! +0.00, 0.47!       -0.00
+QCDscale_ttbar_ACCEPT                         ! +0.00, 0.02!     ! +0.00, 0.43!       -0.02
+UEPS_FSR                                         +0.00, 0.66     ! -0.00, 0.46!       +0.00
+UEPS_ISR                                      ! +0.00, 0.38!     ! +0.00, 0.45!       -0.00
+dynorm2016                                    ! +0.00, 0.33!     ! -0.00, 0.47!       -0.01
+ggWWnorm                                         +0.00, 0.64     ! -0.00, 0.47!       +0.02
+lumi_13TeV_2016                               ! +0.00, 0.05!     ! -0.00, 0.47!       +0.00
+lumi_13TeV_BBDefl                             ! +0.00, 0.23!     ! -0.00, 0.47!       +0.00
+lumi_13TeV_DynBeta                            ! +0.00, 0.20!     ! -0.00, 0.47!       +0.00
+lumi_13TeV_Ghosts                             ! +0.00, 0.23!     ! -0.00, 0.47!       +0.00
+lumi_13TeV_XYFact                             ! +0.00, 0.11!     ! -0.00, 0.47!       +0.00
+mjjshape_2016                                 ! +0.00, 0.13!     ! +0.00, 0.33!       +0.02
+pdf_Higgs_gg                                     +0.00, 0.66     ! -0.00, 0.47!       -0.00
+pdf_Higgs_qqbar                                  +0.00, 0.66     ! -0.00, 0.47!       -0.00
+pdf_gg_ACCEPT                                    +0.00, 0.66     ! -0.00, 0.47!       -0.00
+pdf_qq_ACCEPT                                    +0.00, 0.66     ! -0.00, 0.47!       +0.00
+pdf_ttbar_ACCEPT                              ! +0.00, 0.14!     ! -0.02, 0.30!       +0.00
+prop_bin__BoostedGGF_SB_MEKDTAG_M1500_C0.01_2016_bin0         +0.00, 0.63     ! +0.00, 0.42!       +0.01
+prop_bin__BoostedGGF_SB_UNTAGGED_M1500_C0.01_2016_bin0      ! +0.00, 0.37!     ! +0.00, 0.41!       +0.01
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin10      ! +0.00, 0.39!     ! +0.00, 0.41!       -0.03
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin11_MultiV         +0.00, 0.74        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin11_QCD         +0.00, 0.78        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin11_TT         +0.00, 0.73        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin11_Wjets      ! +0.00, 0.35!        +0.00, 0.52       -0.06
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin11_ggH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin11_ggH_hww_SBI800_c10brn00         +0.00, 0.72        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin11_ggWW         +0.00, 0.73        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin11_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin11_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin11_qqWWqq         +0.00, 0.76     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin3_TT         +0.00, 0.79        +0.00, 0.92       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin3_ggH_hww800_c10brn00         +0.00, 0.83        +0.00, 0.94       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin3_ggH_hww_SBI800_c10brn00         +0.00, 0.83        +0.00, 0.94       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin4_TT         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin4_Wjets      ! +0.00, 0.45!        -0.00, 0.68       +0.03
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin4_qqH_hww800_c10brn00         +0.00, 0.72        +0.00, 0.95       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin4_qqH_hww_SBI800_c10brn00         +0.00, 0.72        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin4_tW         +0.00, 0.75        +0.00, 0.92       +0.01
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin5_TT         +0.00, 0.75     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin5_Wjets      ! +0.00, 0.41!        -0.00, 0.64       +0.13
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin5_WmHWWlnuqq_M125         +0.00, 0.83        +0.00, 0.94       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin5_ggH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin5_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin5_ggWW         +0.00, 0.75        +0.00, 0.95       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin5_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin5_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin5_qqWWqq         +0.00, 0.73        +0.00, 0.95       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin6      ! +0.00, 0.48!     ! -0.00, 0.43!       +0.03
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_MultiV         +0.00, 0.75        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_TT         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_Wjets      ! +0.00, 0.37!        -0.00, 0.57       -0.01
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_WmHWWlnuqq_M125         +0.00, 0.74        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_WpHWWlnuqq_M125         +0.00, 0.78        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_ggH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_ggWW         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_qqWWqq         +0.00, 0.67     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin7_tW         +0.00, 0.66        +0.00, 0.92       -0.00
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin8         +0.00, 0.61     ! +0.00, 0.41!       -0.01
+prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2016_bin9         +0.00, 0.62     ! +0.00, 0.42!       -0.02
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin0      ! +0.00, 0.35!     ! -0.00, 0.39!       -0.05
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin1      ! +0.00, 0.38!     ! +0.00, 0.42!       -0.08
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin10_MultiV         +0.00, 0.78        +0.00, 0.94       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin10_TT         +0.00, 0.73        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin10_Wjets      ! +0.00, 0.42!        +0.00, 0.59       -0.04
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin10_WpHWWlnuqq_M125         +0.00, 0.85        +0.00, 0.94       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin10_ggH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin10_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin10_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin10_qqWWqq         +0.00, 0.74        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin11_ggH_hww_SBI800_c10brn00         +0.00, 0.83        +0.00, 0.94       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin11_ggWW         +0.00, 0.66        +0.00, 0.93       -0.01
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin11_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin11_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin11_qqWWqq         +0.00, 0.76        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin2      ! +0.00, 0.39!     ! +0.00, 0.42!       -0.07
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin3      ! +0.00, 0.40!     ! +0.00, 0.42!       -0.04
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin4      ! +0.00, 0.41!     ! -0.00, 0.41!       +0.12
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin5      ! +0.00, 0.39!     ! -0.00, 0.42!       +0.31
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin6      ! +0.00, 0.38!     ! -0.00, 0.39!       +0.08
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin7         +0.00, 0.51     ! -0.00, 0.38!       -0.02
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_MultiV         +0.00, 0.73        +0.00, 0.95       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_TT         +0.00, 0.75     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_Wjets      ! +0.00, 0.31!        -0.00, 0.52       +0.01
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_WmHWWlnuqq_M125         +0.00, 0.83        +0.00, 0.94       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_WpHWWlnuqq_M125         +0.00, 0.75        +0.00, 0.95       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_ggH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_ggWW         +0.00, 0.75     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_qqWWqq         +0.00, 0.76     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_tW         +0.00, 0.78        +0.00, 0.94       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin9_MultiV         +0.00, 0.79        +0.00, 0.95       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin9_TT         +0.00, 0.75     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin9_Wjets      ! +0.00, 0.32!     ! +0.00, 0.49!       -0.05
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin9_ggH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin9_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin9_ggWW         +0.00, 0.75     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin9_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin9_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin9_qqWWqq         +0.00, 0.76     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_TOP_MEKDTAG_M1500_C0.01_2016_bin0         +0.00, 0.54     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedGGF_TOP_UNTAGGED_M1500_C0.01_2016_bin0         +0.00, 0.57     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SB_NoMEKDCut_2016_bin0      ! +0.00, 0.48!     ! +0.00, 0.42!       -0.02
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin0      ! +0.00, 0.42!     ! +0.00, 0.42!       -0.05
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin1      ! +0.00, 0.43!     ! +0.00, 0.41!       -0.05
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin10_MultiV         +0.00, 0.83        +0.00, 0.94       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin10_TT         +0.00, 0.70        +0.00, 0.95       -0.01
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin10_Wjets      ! +0.00, 0.40!     ! +0.00, 0.36!       -0.13
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin10_ggH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin10_ggH_hww_SBI800_c10brn00         +0.00, 0.74        +0.00, 0.95       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin10_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin10_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin10_qqWWqq         +0.00, 0.74     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin11_MultiV         +0.00, 0.82        +0.00, 0.94       -0.02
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin11_ggH_hww800_c10brn00         +0.00, 0.78        +0.00, 0.95       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin11_ggH_hww_SBI800_c10brn00         +0.00, 0.78        +0.00, 0.95       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin11_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin11_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin11_qqWWqq         +0.00, 0.75        +0.00, 0.95       -0.02
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin2      ! +0.00, 0.43!     ! +0.00, 0.43!       -0.10
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin3      ! +0.00, 0.45!     ! +0.00, 0.42!       -0.01
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin4      ! +0.00, 0.45!     ! -0.00, 0.42!       +0.10
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin5         +0.00, 0.60     ! -0.00, 0.42!       +0.27
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin6_MultiV         +0.00, 0.78        +0.00, 0.95       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin6_TT         +0.00, 0.71     ! -0.00, 0.47!       +0.01
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin6_Wjets         +0.00, 0.60     ! -0.00, 0.42!       +0.11
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin6_ggH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin6_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin6_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.01
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin6_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin6_qqWWqq         +0.00, 0.75     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin6_tW         +0.00, 0.68        -0.00, 0.89       +0.08
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin7_TT         +0.00, 0.74     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin7_Wjets      ! +0.00, 0.48!        +0.00, 0.67       -0.07
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin7_ggH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin7_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin7_ggWW         +0.00, 0.83        +0.00, 0.94       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin7_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin7_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin7_qqWWqq         +0.00, 0.75     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin8_MultiV         +0.00, 0.83        +0.00, 0.94       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin8_TT         +0.00, 0.72        +0.00, 0.95       -0.01
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin8_Wjets         +0.00, 0.52        +0.00, 0.73       -0.10
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin8_ggH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin8_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin8_ggWW         +0.00, 0.78        +0.00, 0.95       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin8_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin8_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin9_Wjets      ! +0.00, 0.44!        +0.00, 0.61       -0.10
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin9_ggH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin9_ggWW         +0.00, 0.77        +0.00, 0.95       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin9_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin9_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_SR_NoMEKDCut_2016_bin9_qqWWqq         +0.00, 0.76     ! +0.00, 0.47!       -0.00
+prop_bin__BoostedVBF_TOP_NoMEKDCut_2016_bin0         +0.00, 0.57     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SB_MEKDTAG_M400_C0.01_2016_bin0      ! +0.00, 0.27!     ! -0.00, 0.41!       -0.01
+prop_bin___ResolvedGGF__SB_UNTAGGED_M400_C0.01_2016_bin0      ! +0.00, 0.24!     ! +0.00, 0.45!       -0.01
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin10      ! +0.00, 0.47!     ! +0.00, 0.32!       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin11      ! +0.00, 0.21!     ! +0.00, 0.30!       +0.06
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin12      ! +0.00, 0.23!     ! +0.00, 0.30!       +0.02
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin13      ! +0.00, 0.32!     ! -0.00, 0.41!       -0.01
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin14      ! +0.00, 0.32!     ! -0.00, 0.31!       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin15      ! +0.00, 0.32!     ! +0.00, 0.36!       -0.01
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin16      ! +0.00, 0.34!     ! -0.00, 0.38!       +0.01
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin17_MultiV         +0.00, 0.66        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin17_TT         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin17_Wjets      ! +0.00, 0.26!     ! -0.00, 0.42!       -0.02
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin17_ggH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin17_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin17_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin17_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin18_MultiV         +0.00, 1.21        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin18_QCD         +0.00, 0.66        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin18_TT         +0.00, 0.66        +0.00, 0.95       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin18_Wjets      ! +0.00, 0.18!     ! -0.00, 0.30!       -0.03
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin18_ggH_hww800_c10brn00         +0.00, 0.74        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin18_ggH_hww_SBI800_c10brn00         +0.00, 0.83        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin18_ggWW         +0.00, 0.66        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin19_TT         +0.00, 0.65        -0.00, 0.94       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin19_Wjets      ! +0.00, 0.09!     ! +0.00, 0.13!       +0.01
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin19_ggH_hww800_c10brn00         +0.00, 0.75        +0.00, 0.95       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin19_ggH_hww_SBI800_c10brn00         +0.00, 0.75        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin19_qqH_hww800_c10brn00         +0.00, 0.73        +0.00, 0.95       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin19_qqH_hww_SBI800_c10brn00         +0.00, 0.73        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin1_SingleTop         +0.00, 0.66        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin1_TT         +0.00, 0.75     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin1_Wjets      ! +0.00, 0.27!        +0.00, 0.54       +0.03
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin1_ggWW         +0.00, 0.66        +0.00, 0.94       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin1_tW         +0.00, 0.65        +0.00, 0.94       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin2      ! +0.00, 0.20!     ! -0.00, 0.42!       -0.06
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin20_TT         +0.00, 0.65        -0.00, 0.93       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin20_Wjets      ! +0.00, 0.03!     ! +0.00, 0.04!       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin20_ggH_hww800_c10brn00         +0.00, 0.78        +0.00, 0.95       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin20_ggH_hww_SBI800_c10brn00         +0.00, 0.78        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin20_qqH_hww800_c10brn00         +0.00, 0.74        +0.00, 0.95       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin20_qqH_hww_SBI800_c10brn00         +0.00, 0.75        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin21_Wjets      ! +0.00, 0.19!     ! +0.00, 0.21!       -0.04
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin21_qqH_hww800_c10brn00         +0.00, 0.83        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin21_qqH_hww_SBI800_c10brn00         +0.00, 0.83        +0.00, 0.94       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin3      ! +0.00, 0.28!     ! +0.00, 0.36!       +0.01
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin4      ! +0.00, 0.30!     ! +0.00, 0.38!       -0.02
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin5      ! +0.00, 0.29!     ! -0.00, 0.43!       +0.05
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin6      ! +0.00, 0.26!     ! -0.00, 0.30!       -0.01
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin7      ! +0.00, 0.27!     ! +0.00, 0.34!       +0.00
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin8      ! +0.00, 0.29!     ! +0.00, 0.34!       +0.04
+prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin9      ! +0.00, 0.27!     ! -0.00, 0.36!       -0.01
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin0      ! +0.00, 0.23!     ! -0.00, 0.35!       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin1      ! +0.00, 0.25!     ! -0.00, 0.35!       -0.01
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin10      ! +0.00, 0.25!     ! -0.00, 0.32!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin11      ! +0.00, 0.30!     ! -0.00, 0.37!       +0.05
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin12      ! +0.00, 0.29!     ! -0.00, 0.37!       -0.01
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin13      ! +0.00, 0.24!     ! -0.00, 0.33!       +0.04
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin14      ! +0.00, 0.23!     ! -0.00, 0.32!       +0.01
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin15      ! +0.00, 0.23!     ! +0.00, 0.32!       +0.01
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin16      ! +0.00, 0.23!     ! +0.00, 0.35!       -0.04
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_MultiV         +0.00, 0.75        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_QCD         +0.00, 0.66        +0.00, 0.94       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_SingleTop         +0.00, 0.66        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_TT         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_Wjets      ! +0.00, 0.15!     ! +0.00, 0.35!       +0.07
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_ZHWWlnuqq_M125         +0.00, 0.66        +0.00, 0.94       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_ggH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_ggWW         +0.00, 0.66        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_qqWWqq         +0.00, 0.66        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin18_MultiV         +0.00, 0.66        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin18_SingleTop         +0.00, 0.66        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin18_TT         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin18_Wjets      ! +0.00, 0.20!     ! -0.00, 0.35!       -0.03
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin18_ZHWWlnuqq_M125         +0.00, 0.66        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin18_ggH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin18_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin18_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin18_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_DY         +0.00, 0.56        +0.00, 0.90       +0.01
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_MultiV         +0.00, 0.66        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_TT         +0.00, 0.66        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_Wjets      ! +0.00, 0.34!        +0.00, 0.59       +0.02
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_ggH_hww800_c10brn00         +0.00, 0.75        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_ggH_hww_SBI800_c10brn00         +0.00, 0.83        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_ggWW         +0.00, 0.66        +0.00, 0.94       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_qqWWqq         +0.00, 0.66        +0.00, 0.95       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin19_tW         +0.00, 0.63        +0.00, 0.93       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin2      ! +0.00, 0.24!     ! -0.00, 0.34!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin20_MultiV         +0.00, 0.66        +0.00, 0.95       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin20_QCD         +0.00, 0.66        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin20_TT         +0.00, 0.66        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin20_Wjets      ! +0.00, 0.21!     ! -0.00, 0.34!       -0.03
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin20_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin20_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin20_qqWWqq         +0.00, 0.66        +0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin21_TT         +0.00, 0.66        -0.00, 0.94       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin21_Wjets      ! +0.00, 0.04!     ! +0.00, 0.06!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin21_qqWWqq         +0.00, 0.66        -0.00, 0.94       -0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin22_QCD         +0.00, 0.66        -0.00, 0.94       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin22_Wjets      ! +0.00, 0.38!     ! +0.00, 0.39!       +0.00
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin3      ! +0.00, 0.25!     ! -0.00, 0.33!       +0.02
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin4      ! +0.00, 0.27!     ! -0.00, 0.37!       +0.02
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin5      ! +0.00, 0.23!     ! +0.00, 0.31!       +0.01
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin6      ! +0.00, 0.27!     ! -0.00, 0.36!       -0.03
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin7      ! +0.00, 0.29!     ! -0.00, 0.35!       +0.02
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin8      ! +0.00, 0.26!     ! -0.00, 0.33!       +0.01
+prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin9      ! +0.00, 0.26!     ! -0.00, 0.34!       +0.02
+prop_bin___ResolvedGGF__TOP_MEKDTAG_M400_C0.01_2016_bin0      ! +0.00, 0.45!     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedGGF__TOP_UNTAGGED_M400_C0.01_2016_bin0      ! +0.00, 0.45!     ! +0.00, 0.47!       -0.00
+prop_bin___ResolvedVBF__SB_NoMEKDCut_2016_bin0      ! +0.00, 0.20!     ! +0.00, 0.38!       +0.01
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin0      ! +0.00, 0.26!     ! -0.00, 0.39!       -0.03
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin1      ! +0.00, 0.38!     ! +0.00, 0.43!       +0.04
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin10      ! +0.00, 0.21!     ! -0.00, 0.31!       +0.03
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin11         +0.00, 0.51     ! -0.00, 0.38!       +0.02
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin12_MultiV         +0.00, 0.74        +0.00, 0.95       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin12_SingleTop         +0.00, 0.77        +0.00, 0.95       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin12_TT         +0.00, 0.76     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin12_Wjets      ! +0.00, 0.28!     ! -0.00, 0.46!       +0.10
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin12_ggH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin12_ggH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin12_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin12_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin12_qqWWqq         +0.00, 0.75     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin13_MultiV         +0.00, 0.84        +0.00, 0.94       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin13_SingleTop         +0.00, 0.84        +0.00, 0.94       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin13_TT         +0.00, 0.75     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin13_Wjets      ! +0.00, 0.31!     ! -0.00, 0.49!       +0.07
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin13_ggH_hww800_c10brn00         +0.00, 0.74        +0.00, 0.95       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin13_ggH_hww_SBI800_c10brn00         +0.00, 0.73        +0.00, 0.95       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin13_ggWW         +0.00, 0.74        +0.00, 0.95       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin13_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin13_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin13_qqWWqq         +0.00, 0.76     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin14_MultiV         +0.00, 0.79        +0.00, 0.94       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin14_TT         +0.00, 0.73     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin14_Wjets      ! +0.00, 0.36!     ! +0.00, 0.34!       +0.02
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin14_ggH_hww800_c10brn00         +0.00, 0.72        +0.00, 0.95       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin14_ggWW         +0.00, 0.84        +0.00, 0.94       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin14_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin14_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin14_qqWWqq         +0.00, 0.74     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin15         +0.00, 0.57     ! -0.00, 0.40!       +0.01
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin16_MultiV         +0.00, 0.77        +0.00, 0.95       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin16_SingleTop         +0.00, 0.81        +0.00, 0.94       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin16_TT         +0.00, 0.67        +0.00, 0.95       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin16_Wjets      ! +0.00, 0.26!     ! -0.00, 0.42!       +0.01
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin16_ggH_hww800_c10brn00         +0.00, 0.74        +0.00, 0.95       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin16_ggH_hww_SBI800_c10brn00         +0.00, 0.74        +0.00, 0.95       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin16_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin16_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin16_qqWWqq         +0.00, 0.74        +0.00, 0.95       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin17_TT         +0.00, 0.67        +0.00, 0.94       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin17_Wjets      ! +0.00, 0.41!        +0.00, 0.59       +0.02
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin17_ggH_hww800_c10brn00         +0.00, 0.78        +0.00, 0.95       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin17_ggH_hww_SBI800_c10brn00         +0.00, 0.78        +0.00, 0.95       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin17_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin17_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin18_TT         +0.00, 0.82        +0.00, 0.94       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin18_Wjets      ! +0.00, 0.32!     ! -0.00, 0.46!       -0.02
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin18_qqH_hww800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin18_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin18_qqWWqq         +0.00, 0.84        +0.00, 0.94       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin19_Wjets      ! +0.00, 0.43!        +0.00, 0.60       +0.02
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin19_qqH_hww800_c10brn00         +0.00, 0.66     ! +0.00, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin19_qqH_hww_SBI800_c10brn00         +0.00, 0.66     ! -0.00, 0.47!       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin2      ! +0.00, 0.23!        -0.00, 0.60       -0.08
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin20_Wjets      ! +0.00, 0.07!     ! +0.00, 0.09!       +0.01
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin20_qqH_hww_SBI800_c10brn00         +0.00, 0.72        +0.00, 0.95       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin21_Wjets      ! +0.00, 0.00!     ! -0.03, 0.47!       +0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin3      ! +0.00, 0.35!     ! +0.00, 0.39!       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin4      ! +0.00, 0.36!     ! -0.00, 0.42!       -0.03
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin5      ! +0.00, 0.35!     ! +0.00, 0.38!       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin6      ! +0.00, 0.35!     ! +0.00, 0.40!       +0.02
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin7      ! +0.00, 0.36!     ! -0.00, 0.38!       -0.00
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin8      ! +0.00, 0.32!     ! -0.00, 0.38!       -0.01
+prop_bin___ResolvedVBF__SR_NoMEKDCut_2016_bin9      ! +0.00, 0.31!     ! -0.00, 0.38!       -0.00
+prop_bin___ResolvedVBF__TOP_NoMEKDCut_2016_bin0         +0.00, 0.50     ! -0.00, 0.47!       +0.00

@@ -1,0 +1,5 @@
+Error in <TFile::TFile>: file fitDiagnosticsM800.root does not exist
+Traceback (most recent call last):
+  File "diffNuisances.py", line 58, in <module>
+    if fit_s == None or fit_s.ClassName()   != "RooFitResult": raise RuntimeError, "File %s does not contain the output of the signal fit 'fit_s'"     % args[0]
+RuntimeError: File fitDiagnosticsM800.root does not contain the output of the signal fit 'fit_s'

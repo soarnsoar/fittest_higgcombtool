@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "diffNuisances.py", line 59, in <module>
+    if fit_b == None or fit_b.ClassName()   != "RooFitResult": raise RuntimeError, "File %s does not contain the output of the background fit 'fit_b'" % args[0]
+RuntimeError: File fitDiagnosticsM800.root does not contain the output of the background fit 'fit_b'
