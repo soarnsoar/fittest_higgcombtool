@@ -1,0 +1,31 @@
+ <<< Combine >>> 
+>>> method used is MultiDimFit
+>>> random number generator seed is 123456
+
+ 
+
+ ---------------------------
+
+ WARNING: MultiDimFit failed
+
+ ---------------------------
+
+ 
+
+ --- MultiDimFit ---
+best fit parameter values: 
+    Wjetsnorm_Boosted_GGF0_2017 :    +1.000
+    Wjetsnorm_Boosted_GGF1_2017 :    +1.000
+     Wjetsnorm_Boosted_VBF_2017 :    +1.000
+   Wjetsnorm_Resolved_GGF0_2017 :    +1.000
+   Wjetsnorm_Resolved_GGF1_2017 :    +1.000
+    Wjetsnorm_Resolved_VBF_2017 :    +1.000
+      topnorm_Boosted_GGF0_2017 :    +1.000
+      topnorm_Boosted_GGF1_2017 :    +1.000
+       topnorm_Boosted_VBF_2017 :    +1.000
+     topnorm_Resolved_GGF0_2017 :    +1.000
+     topnorm_Resolved_GGF1_2017 :    +1.000
+      topnorm_Resolved_VBF_2017 :    +1.000
+                              r :    +0.000
+Done in 0.79 min (cpu), 0.79 min (real)
+>> combine --redefineSignalPOIs Wjetsnorm_Boosted_GGF0_2017,Wjetsnorm_Boosted_GGF1_2017,Wjetsnorm_Boosted_VBF_2017,Wjetsnorm_Resolved_GGF0_2017,Wjetsnorm_Resolved_GGF1_2017,Wjetsnorm_Resolved_VBF_2017,topnorm_Boosted_GGF0_2017,topnorm_Boosted_GGF1_2017,topnorm_Boosted_VBF_2017,topnorm_Resolved_GGF0_2017,topnorm_Resolved_GGF1_2017,topnorm_Resolved_VBF_2017,r --setParameters r=0 -M MultiDimFit -m 900 -d /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Combinato/HighMassH/20210113_Regroup/MEKD_0.01_1pb_onlynorm_inCR_to_fitdia/workspace//2017/WorkSpaceFiles//M900_InR.root --setParameterRanges r=0,0:Wjetsnorm_Boosted_GGF0_2017=0.5,1.5:Wjetsnorm_Boosted_GGF1_2017=0.5,1.5:Wjetsnorm_Boosted_VBF_2017=0.5,1.5:Wjetsnorm_Resolved_GGF0_2017=0.5,1.5:Wjetsnorm_Resolved_GGF1_2017=0.5,1.5:Wjetsnorm_Resolved_VBF_2017=0.5,1.5:topnorm_Boosted_GGF0_2017=0.5,1.5:topnorm_Boosted_GGF1_2017=0.5,1.5:topnorm_Boosted_VBF_2017=0.5,1.5:topnorm_Resolved_GGF0_2017=0.5,1.5:topnorm_Resolved_GGF1_2017=0.5,1.5:topnorm_Resolved_VBF_2017=0.5,1.5 -n .Test

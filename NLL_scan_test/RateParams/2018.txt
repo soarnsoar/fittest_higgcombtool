@@ -1,0 +1,29 @@
+ <<< Combine >>> 
+>>> method used is MultiDimFit
+>>> random number generator seed is 123456
+  [WARNING] Found [prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2018_bin4_MultiV] at boundary. 
+  [WARNING] Found [prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2018_bin4_ggWW] at boundary. 
+  [WARNING] Found [prop_bin__BoostedGGF_SR_MEKDTAG_M1500_C0.01_2018_bin5_ggWW] at boundary. 
+  [WARNING] Found [prop_bin__BoostedVBF_SR_NoMEKDCut_2018_bin10_MultiV] at boundary. 
+  [WARNING] Found [prop_bin__BoostedVBF_SR_NoMEKDCut_2018_bin11_SingleTop] at boundary. 
+  [WARNING] Found [prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2018_bin18_MultiV] at boundary. 
+  [WARNING] Found [prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2018_bin21_Wjets] at boundary. 
+  [WARNING] Found [prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2018_bin21_tW] at boundary. 
+
+ --- MultiDimFit ---
+best fit parameter values: 
+    Wjetsnorm_Boosted_GGF0_2018 :    +1.375
+    Wjetsnorm_Boosted_GGF1_2018 :    +1.081
+     Wjetsnorm_Boosted_VBF_2018 :    +0.782
+   Wjetsnorm_Resolved_GGF0_2018 :    +0.950
+   Wjetsnorm_Resolved_GGF1_2018 :    +0.935
+    Wjetsnorm_Resolved_VBF_2018 :    +0.895
+      topnorm_Boosted_GGF0_2018 :    +0.500
+      topnorm_Boosted_GGF1_2018 :    +0.768
+       topnorm_Boosted_VBF_2018 :    +0.779
+     topnorm_Resolved_GGF0_2018 :    +1.100
+     topnorm_Resolved_GGF1_2018 :    +1.143
+      topnorm_Resolved_VBF_2018 :    +1.116
+                              r :    +0.000
+Done in 0.47 min (cpu), 0.47 min (real)
+>> combine --redefineSignalPOIs Wjetsnorm_Boosted_GGF0_2018,Wjetsnorm_Boosted_GGF1_2018,Wjetsnorm_Boosted_VBF_2018,Wjetsnorm_Resolved_GGF0_2018,Wjetsnorm_Resolved_GGF1_2018,Wjetsnorm_Resolved_VBF_2018,topnorm_Boosted_GGF0_2018,topnorm_Boosted_GGF1_2018,topnorm_Boosted_VBF_2018,topnorm_Resolved_GGF0_2018,topnorm_Resolved_GGF1_2018,topnorm_Resolved_VBF_2018,r --setParameters r=0 -M MultiDimFit -m 900 -d /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Combinato/HighMassH/20210113_Regroup/MEKD_0.01_1pb_onlynorm_inCR_to_fitdia/workspace//2018/WorkSpaceFiles//M900_InR.root --setParameterRanges r=0,0:Wjetsnorm_Boosted_GGF0_2018=0.5,1.5:Wjetsnorm_Boosted_GGF1_2018=0.5,1.5:Wjetsnorm_Boosted_VBF_2018=0.5,1.5:Wjetsnorm_Resolved_GGF0_2018=0.5,1.5:Wjetsnorm_Resolved_GGF1_2018=0.5,1.5:Wjetsnorm_Resolved_VBF_2018=0.5,1.5:topnorm_Boosted_GGF0_2018=0.5,1.5:topnorm_Boosted_GGF1_2018=0.5,1.5:topnorm_Boosted_VBF_2018=0.5,1.5:topnorm_Resolved_GGF0_2018=0.5,1.5:topnorm_Resolved_GGF1_2018=0.5,1.5:topnorm_Resolved_VBF_2018=0.5,1.5 -n .Test

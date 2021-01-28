@@ -1,0 +1,27 @@
+ <<< Combine >>> 
+>>> method used is MultiDimFit
+>>> random number generator seed is 123456
+  [WARNING] Found [prop_bin__BoostedGGF_SR_UNTAGGED_M1500_C0.01_2016_bin8_SingleTop] at boundary. 
+  [WARNING] Found [prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin1_tW] at boundary. 
+  [WARNING] Found [prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin1_ggWW] at boundary. 
+  [WARNING] Found [prop_bin___ResolvedGGF__SR_MEKDTAG_M400_C0.01_2016_bin20_TT] at boundary. 
+  [WARNING] Found [prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin17_QCD] at boundary. 
+  [WARNING] Found [prop_bin___ResolvedGGF__SR_UNTAGGED_M400_C0.01_2016_bin21_qqWWqq] at boundary. 
+
+ --- MultiDimFit ---
+best fit parameter values: 
+    Wjetsnorm_Boosted_GGF0_2016 :    +1.169
+    Wjetsnorm_Boosted_GGF1_2016 :    +1.171
+     Wjetsnorm_Boosted_VBF_2016 :    +0.747
+   Wjetsnorm_Resolved_GGF0_2016 :    +0.977
+   Wjetsnorm_Resolved_GGF1_2016 :    +0.951
+    Wjetsnorm_Resolved_VBF_2016 :    +0.681
+      topnorm_Boosted_GGF0_2016 :    +0.666
+      topnorm_Boosted_GGF1_2016 :    +0.845
+       topnorm_Boosted_VBF_2016 :    +0.775
+     topnorm_Resolved_GGF0_2016 :    +0.917
+     topnorm_Resolved_GGF1_2016 :    +0.934
+      topnorm_Resolved_VBF_2016 :    +0.885
+                              r :    +0.000
+Done in 0.50 min (cpu), 0.51 min (real)
+>> combine --redefineSignalPOIs Wjetsnorm_Boosted_GGF0_2016,Wjetsnorm_Boosted_GGF1_2016,Wjetsnorm_Boosted_VBF_2016,Wjetsnorm_Resolved_GGF0_2016,Wjetsnorm_Resolved_GGF1_2016,Wjetsnorm_Resolved_VBF_2016,topnorm_Boosted_GGF0_2016,topnorm_Boosted_GGF1_2016,topnorm_Boosted_VBF_2016,topnorm_Resolved_GGF0_2016,topnorm_Resolved_GGF1_2016,topnorm_Resolved_VBF_2016,r --setParameters r=0 -M MultiDimFit -m 900 -d /cms/ldap_home/jhchoi/HWW_Analysis/slc7/ForShape/CMSSW_10_2_19/src/SNuAnalytics/Combinato/HighMassH/20210113_Regroup/MEKD_0.01_1pb_onlynorm_inCR_to_fitdia/workspace//2016/WorkSpaceFiles//M900_InR.root --setParameterRanges r=0,0:Wjetsnorm_Boosted_GGF0_2016=0.5,1.5:Wjetsnorm_Boosted_GGF1_2016=0.5,1.5:Wjetsnorm_Boosted_VBF_2016=0.5,1.5:Wjetsnorm_Resolved_GGF0_2016=0.5,1.5:Wjetsnorm_Resolved_GGF1_2016=0.5,1.5:Wjetsnorm_Resolved_VBF_2016=0.5,1.5:topnorm_Boosted_GGF0_2016=0.5,1.5:topnorm_Boosted_GGF1_2016=0.5,1.5:topnorm_Boosted_VBF_2016=0.5,1.5:topnorm_Resolved_GGF0_2016=0.5,1.5:topnorm_Resolved_GGF1_2016=0.5,1.5:topnorm_Resolved_VBF_2016=0.5,1.5 -n .Test
